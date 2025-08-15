@@ -1,0 +1,23 @@
+{
+  "id": "darknessservices",
+  "name": "DARK_NESS SERVICES",
+  "description": "Competitive PvP and minigames server with an active community.",
+  "addresses": ["play.darkcraft.lat", "darkcraft.lat"],
+  "primaryAddress": "play.darkcraft.lat",
+
+  "gameTypes": ["PvP", "Minigames", "Survival"],
+
+  "primaryColor": "#0F52BA",
+  "secondaryColor": "#111111",
+
+  "minecraftVersions": ["1.8.9", "1.21.8"],
+  "primaryMinecraftVersion": "1.20.8",
+
+  "languages": ["en"],
+  "primaryLanguage": "en",
+
+  "regions": ["SA", "NA"],
+  "primaryRegion": "SA",
+
+  "crossplay": true
+}
